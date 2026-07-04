@@ -13,7 +13,6 @@ Common Options:
 Example:
 du -h .
 Bandit Use: Used to identify files or directories with specific sizes.
-
 strings Command
 The strings command extracts readable text from binary files.
 Common Options:
@@ -22,3 +21,7 @@ Common Options:
 Example:
 strings data.bin
 Bandit Use: Used in Level 9 to find the hidden password inside a binary file.
+Day 8 - completed level 10. master core Linux CLI file operations and Base64 encoding
+Learned directory navigation, file manipulation (mkdir, touch, cp, mv, rm), and how data encoding works under the hood.
+
+
