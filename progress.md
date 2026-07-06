@@ -25,4 +25,6 @@ Day 8 - completed level 10. master core Linux CLI file operations and Base64 enc
 Learned directory navigation, file manipulation (mkdir, touch, cp, mv, rm), and how data encoding works under the hood.
 day 9 - completed level 11. add practical usage examples of the`tr` command
 Learned to use `tr` for character translation, case conversion (upper/lower), string squeezing (-s), and deleting specific characters (-d).
+day 10 - completed bandit level 12.text manipulation and archive decompression pipeline
+Learned `tr` string filtering/translating, Base64 encoding/decoding, and multi-layer file unpacking using `gzip`, `bzip2`, `tar`, and `xxd`.
 
