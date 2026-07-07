@@ -27,4 +27,5 @@ day 9 - completed level 11. add practical usage examples of the`tr` command
 Learned to use `tr` for character translation, case conversion (upper/lower), string squeezing (-s), and deleting specific characters (-d).
 day 10 - completed bandit level 12.text manipulation and archive decompression pipeline
 Learned `tr` string filtering/translating, Base64 encoding/decoding, and multi-layer file unpacking using `gzip`, `bzip2`, `tar`, and `xxd`.
+day 11 - learned about nano editor and Filesystem Hierarchy Standard (FHS). 
 
